@@ -1,6 +1,8 @@
 # yapi-electron
 
-yapi的electron实现
+yapi的electron客户端
+
+修改网络入口请直接修改`main.js`
 
 ## 使用
 
